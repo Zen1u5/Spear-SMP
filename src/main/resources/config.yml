@@ -1,0 +1,3 @@
+# SpearSMP starter configuration
+# This build is a basic prototype. Progression and abilities are not yet fully implemented.
+starting-spear: WOODEN_SWORD
