@@ -2,4 +2,12 @@ name: SpearSMP
 version: 1.0.0
 main: com.spearsmp.SpearSMP
 api-version: '1.21'
-description: Spear progression prototype for SpearSMP
+author: SpearSMP
+description: Kill-based cosmic spear progression.
+commands:
+  spear:
+    description: SpearSMP commands
+    usage: /spear <start|give|stats|help>
+permissions:
+  spearsmp.admin:
+    default: op

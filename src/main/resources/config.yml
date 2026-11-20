@@ -1,3 +1,15 @@
-# SpearSMP starter configuration
-# This build is a basic prototype. Progression and abilities are not yet fully implemented.
-starting-spear: WOODEN_SWORD
+# Kills required to advance from each tier. The first 3 tiers are quick-start.
+progression:
+  wood: 1
+  stone: 1
+  coal: 1
+  copper: 2
+  redstone: 2
+  iron: 2
+  lapis: 2
+  gold: 3
+  diamond: 3
+  netherite: 3
+abilities:
+  dash-cooldown-seconds: 5
+  dash-strength: 1.45
