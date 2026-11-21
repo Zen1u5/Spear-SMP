@@ -19,4 +19,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: SpearSMP-build
-          path: target/SpearSMP-1.0.0.jar
+          path: target/*.jar
