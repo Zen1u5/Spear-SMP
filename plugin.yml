@@ -1,0 +1,17 @@
+name: SpearSMP
+version: 1.1.0
+main: com.spearsmp.SpearSMP
+api-version: '1.21'
+author: SpearSMP
+softdepend: [Citizens]
+description: Kill progression, tier abilities and cosmic spear effects.
+commands:
+  spear:
+    description: SpearSMP commands
+    usage: /spear <start|stats|give|reload|ability>
+  player:
+    description: Spawn a Citizens player NPC for progression testing
+    usage: /player [name]
+permissions:
+  spearsmp.admin:
+    default: op

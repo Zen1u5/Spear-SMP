@@ -1,0 +1,26 @@
+progression:
+  wood: 1
+  stone: 1
+  coal: 1
+  copper: 2
+  redstone: 2
+  iron: 2
+  lapis: 2
+  gold: 3
+  diamond: 3
+  netherite: 3
+combat:
+  damage: [4.0, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 10.0]
+abilities:
+  wood-cooldown: 12
+  stone-cooldown: 14
+  coal-cooldown: 14
+  copper-cooldown: 12
+  redstone-cooldown: 12
+  iron-cooldown: 16
+  lapis-cooldown: 14
+  gold-cooldown: 16
+  diamond-cooldown: 16
+  netherite-cooldown: 18
+  god-cooldown: 20
+  dash-strength: 1.35
